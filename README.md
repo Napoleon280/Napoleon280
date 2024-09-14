@@ -1,15 +1,11 @@
-## Etudiant en ecole d'ingenieur en informatique
-
-# Ecole d'ingénieur en informatique        <sub><sup>*sept. 2023 à ce jour*</sup></sub>
-EPITA, Lyon 
+# Etudiant en ecole d'ingenieur en informatique  <sub><sup>*sept. 2023 à ce jour*</sup></sub><br>
+EPITA, Lyon :fr:<br>
 2ème année en classe préparatoire intégrée
 
 ---
 
-## French IT engeneer student
-
-# Ecole d'ingénieur en informatique       <sub><sup>*sept. 2023 to this day*</sup></sub>
-EPITA, Lyon 
+# French IT engeneer student <sub><sup>*sept. 2023 to this day*</sup></sub><br>
+EPITA, Lyon :fr:<br>
 2nd year in five-year IT engineering degree course.
 
 
