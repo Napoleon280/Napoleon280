@@ -1,11 +1,16 @@
-{\large FORMATION }\rule{\linewidth}{0.4pt}
-\begin{wrapfigure}{l}{1.5cm}
-    \includegraphics[width=1.5cm, height=1cm]{Epita.png}
-\end{wrapfigure} \\
-{\large \textbf{Ecole d'ingénieur en informatique}}{\small \color{gray}sept. 2023 à ce jour}\\
-{\small \color{gray} EPITA, Lyon}\\
+## 
+![alt text](https://github.com/Napoleon280/Napoleon280/blob/main/Epita.png?raw=true)
+# Ecole d'ingénieur en informatique        *sept. 2023 à ce jour*
+EPITA, Lyon 
 2ème année en classe préparatoire intégrée
-\\\\
+
+---
+
+## French IT engeneer student
+
+# Ecole d'ingénieur en informatique        *sept. 2023 to this day*
+EPITA, Lyon 
+2nd year in five-year IT engineering degree course.
 
 <!---
 Napoleon280/Napoleon280 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
